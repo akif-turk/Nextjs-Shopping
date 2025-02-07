@@ -67,7 +67,7 @@ const Header = async () => {
         <div className="text-base flex flex-row items-center gap-3 lg:gap-6 font-semibold">
           <UserButton></UserButton>
 
-          <div className="hidden lg:flex">$0.00</div>
+          <div className="hidden lg:flex"></div>
           <Cart />
         </div>
       </div>

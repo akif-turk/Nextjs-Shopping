@@ -13,4 +13,11 @@
 - zustand
 
 ## Eksik kısımları mevcuttur ve tamamlanacaktır.
-# Nextjs-Shopping
+
+# Ekran Görüntüsü
+
+# ![](bos1.gif)
+
+# ![](bos2.gif)
+
+# ![](bos3.gif)
